@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
+title: Star Formation Efficiency across Environments in the Simba Simulation
 description: with background image
-img: assets/img/12.jpg
+img: Fig3_numberdensity
 importance: 1
 category: work
-related_publications: true
+related_publications: https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.4393G/abstract
 ---
 
 Every project has a beautiful feature showcase page.
